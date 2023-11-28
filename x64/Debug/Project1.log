@@ -1,0 +1,25 @@
+﻿  MyForm.cpp
+C:\Users\edwin\Desktop\Cours_A2\BLOC_2\Project1\Project1\FormUtilisateur.h(20,18): warning C4677: 'FormUtilisateur' : la signature de membre non privée contient un type privé d'assembly 'User'
+  (compiler le fichier source 'MyForm.cpp')
+  C:\Users\edwin\Desktop\Cours_A2\BLOC_2\Project1\Project1\User.h(5,11):
+  voir la déclaration de 'User'
+  
+C:\Users\edwin\Desktop\Cours_A2\BLOC_2\Project1\Project1\MyForm.h(24,9): warning C4677: 'MyForm' : la signature de membre non privée contient un type privé d'assembly 'BDD'
+  (compiler le fichier source 'MyForm.cpp')
+  C:\Users\edwin\Desktop\Cours_A2\BLOC_2\Project1\Project1\BDD.h(6,11):
+  voir la déclaration de 'BDD'
+  
+  main.cpp
+C:\Users\edwin\Desktop\Cours_A2\BLOC_2\Project1\Project1\FormUtilisateur.h(20,18): warning C4677: 'FormUtilisateur' : la signature de membre non privée contient un type privé d'assembly 'User'
+  (compiler le fichier source 'main.cpp')
+  C:\Users\edwin\Desktop\Cours_A2\BLOC_2\Project1\Project1\User.h(5,11):
+  voir la déclaration de 'User'
+  
+C:\Users\edwin\Desktop\Cours_A2\BLOC_2\Project1\Project1\MyForm.h(24,9): warning C4677: 'MyForm' : la signature de membre non privée contient un type privé d'assembly 'BDD'
+  (compiler le fichier source 'main.cpp')
+  C:\Users\edwin\Desktop\Cours_A2\BLOC_2\Project1\Project1\BDD.h(6,11):
+  voir la déclaration de 'BDD'
+  
+  Génération de code en cours...
+  BDD.obj : module MSIL détecté ; liens incrémentiels désactivés pour MSIL ; édition de liens complète en cours
+  Project1.vcxproj -> C:\Users\edwin\Desktop\Cours_A2\BLOC_2\Project1\x64\Debug\Project1.exe
